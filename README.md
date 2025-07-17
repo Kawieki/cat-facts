@@ -6,8 +6,8 @@ Prosta aplikacja konsolowa w C#, która pobiera losowe fakty o kotach z API `htt
 
 - Asynchroniczne pobieranie faktów o kotach przez HTTP.
 - Dopisywanie każdego faktu do lokalnego pliku tekstowego.
-- Wykorzystanie Dependency Injection dla lepszej organizacji kodu.
-- Asynchroniczny zapis do pliku dla wydajnej pracy z I/O.
+- Wykorzystanie Dependency Injection
+- Asynchroniczny zapis do pliku
 
 ## Jak używać
 
