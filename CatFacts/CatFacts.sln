@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatFacts", "CatFacts\CatFacts.csproj", "{02556CFC-5256-4547-A239-A272FC19D0BC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatFacts", "CatFacts.csproj", "{02556CFC-5256-4547-A239-A272FC19D0BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
