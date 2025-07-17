@@ -16,7 +16,7 @@ public class CatApp
         try
         {
             var fact = await _catFactService.GetCatFactAsync();
-            Console.WriteLine($"Cat Fact: {fact.Description} (Length: {fact.Length})");
+            Console.WriteLine($"Fact: {fact.Description} (Length: {fact.Length})");
             await _catFileService.SaveToTxtFile(fact);
         }
         catch (Exception ex)
